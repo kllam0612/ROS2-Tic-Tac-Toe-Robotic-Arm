@@ -1,0 +1,9 @@
+# Shared configuration for ttt_cv nodes
+sound_params:
+  ros__parameters:
+    # Group 1: Hardware Settings (used by camera_tuning.py, camera_arm_node.py)
+    sound_settings:
+      voice: 'en+m1'
+      speech_speed: 150
+      speech_pitch: 50
+      
