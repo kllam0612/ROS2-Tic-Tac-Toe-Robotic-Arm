@@ -1,0 +1,6 @@
+# Shared configuration for ttt_cv nodes
+game_params:
+  ros__parameters:
+    # Group 1: Hardware Settings (used by camera_tuning.py, camera_arm_node.py)
+    game_logic_settings:
+      depth: 1
